@@ -1,0 +1,346 @@
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\bin\xmlpdf.lic
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\bin\Serenity.dll
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\bin\Serenity.XmlSerializers.dll
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\bin\Serenity.xml
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\bin\Newtonsoft.Json.dll
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\bin\Newtonsoft.Json.xml
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.CallCentreMenu.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.DocumentViewer.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.ErrorHandler.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.Global.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbLogin.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.PasswordUpdate.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbActivityCriterion.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.ActivityExport.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.ActivityGenerator.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.FlagParticipants.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbGenerateTradeset.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.AccesKey.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.AccessRightEditor.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbAirport.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbBookingAuthority.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbBrand.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbCurrency.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.Geography.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.Suppliers.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.SupplierTypes.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.UserManagement.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbCalendar.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.CallCentre.cbBookingComments.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.CallCentre.BookingConfirmation.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.BookingConfirmationPopup.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.CallCentre.cbBookingDetails.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.CallCentre.cbBookingSearch.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.CallCentre.cbCopyBooking.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbInventory.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.CallCentre.cbLeadGuest.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.CallCentre.cbAddCustomPackage.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.CallCentre.cbPackageBookingComments.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.PackageBookingConfirmation.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.CallCentre.cbPackageBookingDetails.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.CallCentre.cbCancelPackageBooking.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.CallCentre.cbPackageConfirmation.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.CallCentre.cbLinkedPackageBookings.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.CallCentre.cbPayment.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.CallCentre.cbAdvancedPropertySearch.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.CallCentre.cbPropertyBookingComments.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.PropertyBookingConfirmation.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.CallCentre.cbPropertyBookingDetails.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.CallCentre.cbCancelBooking.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.CallCentre.cbPropertyConfirmation.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.CallCentre.cbPropertyContractSelection.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.CallCentre.cbPropertyErrata.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.CallCentre.cbGuestDetails.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.CallCentre.cbLinkedBookings.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.CallCentre.cbPackages.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbPropertyDetails.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbPropertyRates.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.TransferBookingConfirmation.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.CallCentre.BookingDetails.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.CallCentre.cbCancelTransferBooking.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.CallCentre.Confirmation.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.CallCentreWebServices.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbPackageCMS.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbPropertyCMS.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbFreeOfferType.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.FreeOfferTypeGroups.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbOtherType.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbRegionalTax.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbSpecialOfferType.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbAllocationRelease.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbAuditTrail.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbCloseOut.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbContract.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbContractCopy.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.ContractHeaderSets.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbContractRoomType.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbContractSearch.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.CopySpecialOffer.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbCopySupplement.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbContractFacility.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbContractFreeOffer.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbContractGroupDiscount.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbMinMaxStay.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.NewContract.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.Note.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.OtherInformation.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbPackages.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbPaymentSchedule.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbRates.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.RatesComparison.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbSpecialOffers.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbSupplement.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbTax.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.AuditTrailViewer.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.ClientContractSync.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.ContractSync.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.GetContract.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.GetProperty.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.sync.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.SyncBackContract.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.SyncBackProperty.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.TradeSelection.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.Viewer.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbBookingCommentType.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbCreditCardTypes.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbErratum.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbLocationFeatures.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbLocationPackage.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbPayee.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbSearchParameter.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.CustomerDatabase.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbInterest.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.PredefinedNote1.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbDocumentGenerator.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbHelp.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.Homepageold.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbHotelInput.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbInstall.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbDefaultPaymentSchedule.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.Invoicing.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbPropertyCommission.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbStatement.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.TradeSetup.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbAddAdjustment.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbAddBooking.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.AddUC.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbPayments.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbPaymentViewer.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbAddressType.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbBedType.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbExtraBedType.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbFacility.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbMealPlan.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbProperty.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbPropertyGroup.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbPropertyRoomType.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbPropertySearch.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbPropertyType.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbRoomType.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbRoomView.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.BookingChart.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.ChartResult.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.CustomReports.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.ExcelExport.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbReport.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbReportGroup.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.ReportTest.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.ReportViewer.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.Test.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbBookingCountry.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbBookingSource.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbTrade.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbTradeAttribute.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbTradeContactDetails.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbTradeContactGroup.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbTradeGroup.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.cbTradeSet.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.TransferContracts.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.TransferContractSearch.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.TransferContractsSetup.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.AutoComplete.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.AutoSort1.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.DatalistExcelExport.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.StoreMenu.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.Sequencer.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.XmlHttp.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.XmlHttpTest.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.test1.resources
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.vbproj.GenerateResource.Cache
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.dll
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.xml
+C:\Users\willemv\Documents\Visual Studio 2015\Projects\Serenity\obj\Release\Serenity.XmlSerializers.dll
+C:\inetpub\staging.centriumres.com\bin\xmlpdf.lic
+C:\inetpub\staging.centriumres.com\bin\Serenity.dll.config
+C:\inetpub\staging.centriumres.com\bin\Serenity.dll
+C:\inetpub\staging.centriumres.com\bin\Serenity.XmlSerializers.dll
+C:\inetpub\staging.centriumres.com\bin\Serenity.xml
+C:\inetpub\staging.centriumres.com\bin\Newtonsoft.Json.dll
+C:\inetpub\staging.centriumres.com\bin\Newtonsoft.Json.xml
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.vbprojResolveAssemblyReference.cache
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.CallCentreMenu.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.DocumentViewer.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.ErrorHandler.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.Global.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbLogin.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.PasswordUpdate.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbActivityCriterion.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.ActivityExport.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.ActivityGenerator.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.FlagParticipants.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbGenerateTradeset.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.AccesKey.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.AccessRightEditor.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbAirport.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbBookingAuthority.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbBrand.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbCurrency.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.Geography.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.Suppliers.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.SupplierTypes.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.UserManagement.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbCalendar.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.CallCentre.cbBookingComments.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.CallCentre.BookingConfirmation.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.BookingConfirmationPopup.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.CallCentre.cbBookingDetails.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.CallCentre.cbBookingSearch.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.CallCentre.cbCopyBooking.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbInventory.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.CallCentre.cbLeadGuest.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.CallCentre.cbAddCustomPackage.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.CallCentre.cbPackageBookingComments.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.PackageBookingConfirmation.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.CallCentre.cbPackageBookingDetails.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.CallCentre.cbCancelPackageBooking.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.CallCentre.cbPackageConfirmation.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.CallCentre.cbLinkedPackageBookings.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.CallCentre.cbPayment.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.CallCentre.cbAdvancedPropertySearch.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.CallCentre.cbPropertyBookingComments.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.PropertyBookingConfirmation.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.CallCentre.cbPropertyBookingDetails.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.CallCentre.cbCancelBooking.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.CallCentre.cbPropertyConfirmation.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.CallCentre.cbPropertyContractSelection.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.CallCentre.cbPropertyErrata.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.CallCentre.cbGuestDetails.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.CallCentre.cbLinkedBookings.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.CallCentre.cbPackages.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbPropertyDetails.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbPropertyRates.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.TransferBookingConfirmation.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.CallCentre.BookingDetails.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.CallCentre.cbCancelTransferBooking.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.CallCentre.Confirmation.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.CallCentreWebServices.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbPackageCMS.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbPropertyCMS.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbFreeOfferType.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.FreeOfferTypeGroups.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbOtherType.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbRegionalTax.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbSpecialOfferType.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbAllocationRelease.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbAuditTrail.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbCloseOut.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbContract.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbContractCopy.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.ContractHeaderSets.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbContractRoomType.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbContractSearch.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.CopySpecialOffer.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbCopySupplement.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbContractFacility.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbContractFreeOffer.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbContractGroupDiscount.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbMinMaxStay.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.NewContract.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.Note.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.OtherInformation.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbPackages.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbPaymentSchedule.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbRates.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.RatesComparison.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbSpecialOffers.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbSupplement.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbTax.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.AuditTrailViewer.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.ClientContractSync.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.ContractSync.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.GetContract.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.GetProperty.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.sync.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.SyncBackContract.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.SyncBackProperty.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.TradeSelection.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.Viewer.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbBookingCommentType.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbCreditCardTypes.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbErratum.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbLocationFeatures.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbLocationPackage.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbPayee.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbSearchParameter.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.CustomerDatabase.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbInterest.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.PredefinedNote1.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbDocumentGenerator.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbHelp.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.Homepageold.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbHotelInput.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbInstall.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbDefaultPaymentSchedule.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.Invoicing.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbPropertyCommission.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbStatement.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.TradeSetup.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbAddAdjustment.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbAddBooking.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.AddUC.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbPayments.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbPaymentViewer.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbAddressType.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbBedType.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbExtraBedType.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbFacility.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbMealPlan.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbProperty.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbPropertyGroup.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbPropertyRoomType.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbPropertySearch.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbPropertyType.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbRoomType.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbRoomView.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.BookingChart.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.ChartResult.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.CustomReports.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.ExcelExport.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbReport.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbReportGroup.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.ReportTest.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.ReportViewer.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.Test.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbBookingCountry.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbBookingSource.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbTrade.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbTradeAttribute.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbTradeContactDetails.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbTradeContactGroup.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbTradeGroup.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.cbTradeSet.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.TransferContracts.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.TransferContractSearch.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.TransferContractsSetup.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.AutoComplete.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.AutoSort1.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.DatalistExcelExport.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.StoreMenu.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.Sequencer.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.XmlHttp.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.XmlHttpTest.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.test1.resources
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.vbproj.GenerateResource.Cache
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.dll
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.xml
+C:\inetpub\staging.centriumres.com\obj\Release\Serenity.XmlSerializers.dll
