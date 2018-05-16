@@ -28,5 +28,6 @@ c:\users\willem vermeulen\documents\visual studio 2015\Projects\willemTest\wille
 c:\users\willem vermeulen\documents\visual studio 2015\Projects\willemTest\willemTest\bin\Microsoft.AI.WindowsServer.xml
 c:\users\willem vermeulen\documents\visual studio 2015\Projects\willemTest\willemTest\bin\Microsoft.ApplicationInsights.xml
 c:\users\willem vermeulen\documents\visual studio 2015\Projects\willemTest\willemTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\willem vermeulen\documents\visual studio 2015\Projects\willemTest\willemTest\obj\Release\willemTest.csprojResolveAssemblyReference.cache
 c:\users\willem vermeulen\documents\visual studio 2015\Projects\willemTest\willemTest\obj\Release\willemTest.dll
 c:\users\willem vermeulen\documents\visual studio 2015\Projects\willemTest\willemTest\obj\Release\willemTest.pdb
